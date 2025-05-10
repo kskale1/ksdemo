@@ -1,2 +1,2 @@
 # ksdemo
-first repo
+first Repository
